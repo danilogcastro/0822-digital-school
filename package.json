@@ -1,0 +1,22 @@
+{
+  "name": "0822-digital-school",
+  "version": "1.0.0",
+  "description": "projeto alunos",
+  "main": "alunos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilogcastro/0822-digital-school.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilogcastro/0822-digital-school/issues"
+  },
+  "homepage": "https://github.com/danilogcastro/0822-digital-school#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
